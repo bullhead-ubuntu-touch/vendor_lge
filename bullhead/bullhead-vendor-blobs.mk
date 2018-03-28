@@ -81,6 +81,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/bullhead/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lge/bullhead/proprietary/lib/libtinyxml2.so:system/lib/libtinyxml2.so \
     vendor/lge/bullhead/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
+    vendor/lge/bullhead/proprietary/lib/libaptX_encoder.so:system/lib/libaptX_encoder.so \
+    vendor/lge/bullhead/proprietary/lib/libaptXHD_encoder.so:system/lib/libaptXHD_encoder.so \
     vendor/lge/bullhead/proprietary/lib64/hw/gps.msm8992.so:system/lib64/hw/gps.msm8992.so \
     vendor/lge/bullhead/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/lge/bullhead/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
@@ -90,4 +92,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/bullhead/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/lge/bullhead/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/lge/bullhead/proprietary/lib64/libtinyxml2.so:system/lib64/libtinyxml2.so \
-    vendor/lge/bullhead/proprietary/lib64/libbt-vendor.so:system/lib64/libbt-vendor.so
+    vendor/lge/bullhead/proprietary/lib64/libbt-vendor.so:system/lib64/libbt-vendor.so \
+    vendor/lge/bullhead/proprietary/lib64/libaptX_encoder.so:system/lib64/libaptX_encoder.so \
+    vendor/lge/bullhead/proprietary/lib64/libaptXHD_encoder.so:system/lib64/libaptXHD_encoder.so
